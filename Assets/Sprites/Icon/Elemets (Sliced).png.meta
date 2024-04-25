@@ -1,0 +1,1059 @@
+fileFormatVersion: 2
+guid: e1aa4d23682e48c4e921ac0eb66fd8e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background_Blue
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3000
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af83d0d682b34640a07a3a925f7382e
+      internalID: 749895003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Crystal_1
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2065
+        width: 1067
+        height: 1900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a6030e083d21140bc8ec88a2777941
+      internalID: 349212225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Crystal_2
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 2065
+        width: 1067
+        height: 1900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cd0ebf4e7221041836b52cec0d2cca
+      internalID: 1746157810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Cave_1
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 2065
+        width: 1067
+        height: 1900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c7a1b9c7b5891459becc2e240e5225
+      internalID: -449974999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Cave_2
+      rect:
+        serializedVersion: 2
+        x: 4822
+        y: 2065
+        width: 1067
+        height: 1900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4889c29c6155e344cb45c2e769a0e600
+      internalID: 1167565144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Cave_3
+      rect:
+        serializedVersion: 2
+        x: 6003
+        y: 2065
+        width: 1067
+        height: 1900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9770f5522c94e439344d33c7359335
+      internalID: 1805783329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Orange
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc55a11b210d0d64ebcc4004ef71e380
+      internalID: -231114715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_White_2
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 1626
+        width: 512
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0871943b4e1eb4884044dd29ff92ba
+      internalID: -1397821974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb
+      rect:
+        serializedVersion: 2
+        x: 6914
+        y: 546
+        width: 276
+        height: 1325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb7f62ff84a29409590be0dfa184ae
+      internalID: -1069350806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_White_1
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1166
+        width: 779
+        height: 659
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f79b4f2f831cd64b9d511b7b8094f64
+      internalID: 1057709925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Wall_2
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 1177
+        width: 760
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7726f94d079d114f84cb661ec1e71c8
+      internalID: -1427847793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire
+      rect:
+        serializedVersion: 2
+        x: 5878
+        y: 1300
+        width: 340
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f70d75e8b07e8846b85c49b795a24d3
+      internalID: 1564212827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Wall_Small_3
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1506
+        width: 212
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1a2e86804d0344788115edaf21c0a8
+      internalID: -2069306788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Wall_Small_2
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1493
+        width: 211
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9527078411e494f96941febe6592a6
+      internalID: -1143603350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Wall_Small_1
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1497
+        width: 208
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8605479cb59fc984c9696bdb946a9475
+      internalID: -2023586522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saw
+      rect:
+        serializedVersion: 2
+        x: 5336
+        y: 1357
+        width: 320
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e172b6eee34834c8e1c21d6120fbd7
+      internalID: -652330881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_Front
+      rect:
+        serializedVersion: 2
+        x: 7657
+        y: 1481
+        width: 364
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de740d526fe43d4bbcc4a39ec5949db
+      internalID: 917862939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character
+      rect:
+        serializedVersion: 2
+        x: 6445
+        y: 1332
+        width: 226
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754e49f1733886841b9afd4b37ad5be0
+      internalID: -1791307766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Wall_3
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 698
+        width: 616
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257e5888d8f2fba43b96898826df23d4
+      internalID: 1680301258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform
+      rect:
+        serializedVersion: 2
+        x: 7657
+        y: 1011
+        width: 373
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9977bae8494b44d95146ec6b03c846
+      internalID: -1640385470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Wall_1
+      rect:
+        serializedVersion: 2
+        x: 5373
+        y: 290
+        width: 1077
+        height: 708
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e0cd5738a34a8448307d4bcf0b7ea3
+      internalID: 1597182140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_White_Filled_1
+      rect:
+        serializedVersion: 2
+        x: 4787
+        y: 772
+        width: 284
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac0fd9e108d8d54aad2a6e4dd038626
+      internalID: 634655116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 657
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0237371f840ccb4688b0a467cf5d14f
+      internalID: 1446997205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 657
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210a2e5ca1a6282409357fcbca845be7
+      internalID: 208280204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 669
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b7228bd64011e4a85625a154b4ad0b
+      internalID: 1702241607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line
+      rect:
+        serializedVersion: 2
+        x: 4065
+        y: 686
+        width: 309
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ba37c3d35519249b19548abda42935
+      internalID: -1006571129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 681
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87ac46245d34724d9dd8d546ccbe165
+      internalID: -662354696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood
+      rect:
+        serializedVersion: 2
+        x: 4586
+        y: 665
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dbc744bce7f7746ad0f77a088eb5e6
+      internalID: 1711942592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 641
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df5e6db3c628ee42ab95a1201c7ea5f
+      internalID: 1045652393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Wall_4
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 103
+        width: 413
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e18059f5b50c4fa60166523e652c1
+      internalID: -92352480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_White_Filled_2
+      rect:
+        serializedVersion: 2
+        x: 4773
+        y: 371
+        width: 292
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337c3a161825e2748ab3a57ae09cf23a
+      internalID: 1256184752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 640
+        width: 132
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e20ed463ef7b04ea864960d252be6e
+      internalID: -1430708328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elemets_12
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 1323
+        width: 511
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a71d3d10c1970419947a2afaf7de89
+      internalID: 193339932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Shadow
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 3000
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916a863af6d7e49478a30e6aea41b096
+      internalID: -344689713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Background_Blue: 749895003
+      Background_Cave_1: -449974999
+      Background_Cave_2: 1167565144
+      Background_Cave_3: 1805783329
+      Background_Crystal_1: 349212225
+      Background_Crystal_2: 1746157810
+      Background_Orange: -231114715
+      Background_Shadow: -344689713
+      Blood: 1711942592
+      Character: -1791307766
+      Climb: -1069350806
+      Close: 1702241607
+      Coin: 1045652393
+      Diamond: -662354696
+      Elemets_0: 1344784520
+      Elemets_10: -1254158190
+      Elemets_101: -1322478164
+      Elemets_102: -67147292
+      Elemets_103: -1775103406
+      Elemets_104: -734486046
+      Elemets_105: 1424427102
+      Elemets_106: -1869021599
+      Elemets_107: 219209729
+      Elemets_108: 515529457
+      Elemets_109: -854398028
+      Elemets_11: 224523873
+      Elemets_111: -1180747428
+      Elemets_112: 1320786750
+      Elemets_113: 1549339282
+      Elemets_114: -993977760
+      Elemets_115: -263309904
+      Elemets_116: 720292464
+      Elemets_117: -1942193589
+      Elemets_118: 1725729050
+      Elemets_119: 138634087
+      Elemets_12: 193339932
+      Elemets_120: -797536437
+      Elemets_121: 970807406
+      Elemets_122: 1059122001
+      Elemets_123: 1702871138
+      Elemets_124: -414109472
+      Elemets_125: 1800178355
+      Elemets_127: -56026238
+      Elemets_128: -241961504
+      Elemets_13: 827133323
+      Elemets_130: -2078370235
+      Elemets_132: 453387369
+      Elemets_133: -6992050
+      Elemets_134: -2138012119
+      Elemets_135: -185629795
+      Elemets_136: 204012553
+      Elemets_137: -1982553193
+      Elemets_138: 1977984802
+      Elemets_139: 860343961
+      Elemets_14: 877012111
+      Elemets_140: 100849710
+      Elemets_141: 1797856621
+      Elemets_145: 1966890795
+      Elemets_147: -366838689
+      Elemets_148: 635774279
+      Elemets_149: 1564984621
+      Elemets_15: 1382061823
+      Elemets_150: 644862164
+      Elemets_151: -1357904065
+      Elemets_152: -701906545
+      Elemets_153: 2141612894
+      Elemets_154: -1108306334
+      Elemets_155: -620139173
+      Elemets_156: 854513504
+      Elemets_157: -664610357
+      Elemets_158: -833026938
+      Elemets_159: 1934026048
+      Elemets_16: -1197589302
+      Elemets_160: 575594706
+      Elemets_161: 1163819844
+      Elemets_162: 1835725627
+      Elemets_163: 1801358680
+      Elemets_164: -527522298
+      Elemets_166: -796087642
+      Elemets_167: -1039627704
+      Elemets_168: -460938714
+      Elemets_169: -537136691
+      Elemets_17: 1261593307
+      Elemets_170: -1880349795
+      Elemets_171: -72280868
+      Elemets_172: 1404289779
+      Elemets_173: 757566903
+      Elemets_174: -409435600
+      Elemets_175: 1550790752
+      Elemets_176: -1918907426
+      Elemets_177: -505388135
+      Elemets_179: 453334068
+      Elemets_18: 1476604643
+      Elemets_180: -239914121
+      Elemets_181: 365326613
+      Elemets_182: 1484130787
+      Elemets_183: -1920676893
+      Elemets_184: -408334990
+      Elemets_185: -1927646084
+      Elemets_186: 404487401
+      Elemets_187: 475968512
+      Elemets_188: 1737317592
+      Elemets_189: 179393645
+      Elemets_19: 757953908
+      Elemets_190: 1131790173
+      Elemets_20: -1525104111
+      Elemets_22: -1246273013
+      Elemets_23: 820319106
+      Elemets_25: 1054243307
+      Elemets_26: 1663435146
+      Elemets_27: 1708113077
+      Elemets_29: 507334708
+      Elemets_31: 1767968871
+      Elemets_33: 1580699976
+      Elemets_34: -1333701389
+      Elemets_35: 880672113
+      Elemets_36: 1670644490
+      Elemets_37: -616805037
+      Elemets_38: 1125082489
+      Elemets_39: 1450917121
+      Elemets_41: -681076367
+      Elemets_43: 1433093663
+      Elemets_45: 1131884885
+      Elemets_47: -612532015
+      Elemets_5: -1702832275
+      Elemets_50: -340510992
+      Elemets_51: -138136839
+      Elemets_52: -464709997
+      Elemets_53: 1303134831
+      Elemets_54: -334583884
+      Elemets_55: -437570101
+      Elemets_56: 1461522355
+      Elemets_57: 1099757347
+      Elemets_58: -67391393
+      Elemets_59: 258273524
+      Elemets_61: -1963066825
+      Elemets_62: -969731874
+      Elemets_63: -633133292
+      Elemets_64: -994324005
+      Elemets_65: -1408051305
+      Elemets_66: -86524835
+      Elemets_68: -76080505
+      Elemets_69: 1352188516
+      Elemets_70: 248355820
+      Elemets_71: 205756394
+      Elemets_72: 1410785334
+      Elemets_73: -561974556
+      Elemets_74: 1267432086
+      Elemets_75: 1635280154
+      Elemets_76: -617104225
+      Elemets_77: 472442273
+      Elemets_78: -1723321446
+      Elemets_79: 932467369
+      Elemets_8: -1131297086
+      Elemets_80: -1918173649
+      Elemets_81: 871823560
+      Elemets_82: -425692331
+      Elemets_83: 1995742712
+      Elemets_84: -182816520
+      Elemets_86: -1036467551
+      Elemets_88: 1348325771
+      Elemets_89: 365153285
+      Elemets_9: -1314421588
+      Elemets_90: -1861934122
+      Elemets_91: -1357774360
+      Elemets_92: 244506699
+      Elemets_93: -1806879222
+      Elemets_94: 784453150
+      Elemets_95: 1228963564
+      Elemets_96: 917345465
+      Elemets_97: 2138528229
+      Elemets_98: -1198693293
+      Elemets_99: -352371877
+      Fire: 1564212827
+      Frame_White_1: 1057709925
+      Frame_White_2: -1397821974
+      Frame_White_Filled_1: 634655116
+      Frame_White_Filled_2: 1256184752
+      Line: -1006571129
+      Loading: -1921657233
+      Pause: 1446997205
+      Platform: -1640385470
+      Platform_Front: 917862939
+      Saw: -652330881
+      Settings: 208280204
+      Stone_Wall_1: 1597182140
+      Stone_Wall_2: -1427847793
+      Stone_Wall_3: 1680301258
+      Stone_Wall_4: -92352480
+      Stone_Wall_Small_1: -2023586522
+      Stone_Wall_Small_2: -1143603350
+      Stone_Wall_Small_3: -2069306788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
